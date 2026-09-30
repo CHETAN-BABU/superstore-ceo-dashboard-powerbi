@@ -4,10 +4,14 @@ An interactive executive dashboard for a fictional retailer, **"Chetan in Cork" 
 
 **Tools:** Power BI Desktop · Power Query (M) · DAX · Power BI Service
 
-<!-- Add screenshots: open the .pbix, export each page as an image to images/, then uncomment:
-![Overview](images/overview.png)
-![Regional analysis](images/regional.png)
--->
+### Sales & Profit Overview
+![Sales and profit overview](images/overview.png)
+
+### Geographic & Regional Analysis
+![Geographic and regional analysis](images/regional.png)
+
+### Drill-through: Campaign Planning
+![Campaign planning drill-through](images/drillthrough.png)
 
 ## Dataset
 [Sample Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (Kaggle): 9,994 US orders, 2014–2017, covering orders, customers, geography, a product hierarchy and financials.
